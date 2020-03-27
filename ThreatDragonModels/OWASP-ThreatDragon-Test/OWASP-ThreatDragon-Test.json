@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "OWASP-ThreatDragon-Test",
+    "owner": "tanglei",
+    "description": "a system"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "tester"
+  }
+}
